@@ -3,6 +3,8 @@
 Lab belajar **forensik log Windows (EVTX)** di Kali Linux: membaca file `.evtx`, mengenali jejak serangan, dan membandingkan analisis manual dengan deteksi otomatis (Chainsaw + Sigma).
 
 > Project ini ditujukan untuk **pembelajaran dan analisis defensif** (DFIR, blue team, persiapan sertifikasi) memakai sampel publik atau log dari lab pribadi. Jangan menganalisis log milik pihak lain tanpa izin.
+> <img width="1004" height="422" alt="evtx-env" src="https://github.com/user-attachments/assets/63da9665-bd06-4187-ac7f-d941540fa148" />
+
 
 ## Daftar isi
 
